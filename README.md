@@ -13,10 +13,25 @@
             font-family: 'Inter', sans-serif;
             background-color: #f7f7f7;
             color: #1f2937; /* Dark Gray */
+            scroll-behavior: smooth; /* Smooth scrolling for navigation */
         }
-        .hero-bg {
-            background-color: #10b981; /* Emerald Green */
-            color: white;
+        /* UPDATED: Changed primary color to a deep Navy Blue for professionalism */
+        .primary-color {
+            color: #1e3a8a; /* Navy Blue - Tailwind blue-800 */
+        }
+        .primary-bg {
+            background-color: #1e3a8a;
+        }
+        /* UPDATED: Changed accent color to a calm Sky Blue/Cyan */
+        .accent-color {
+            color: #38bdf8; /* Sky Blue - Tailwind sky-400 */
+        }
+        .accent-bg {
+            background-color: #38bdf8;
+        }
+        /* Custom class for the hero button text */
+        .hero-button-text {
+            color: #1e3a8a;
         }
     </style>
 </head>
@@ -25,40 +40,44 @@
     <!-- Navigation -->
     <header class="sticky top-0 z-50 bg-white shadow-md">
         <nav class="container mx-auto px-4 sm:px-6 lg:px-8 py-4 flex justify-between items-center">
-            <a class="text-xl font-extrabold text-[#10b981] hover:text-[#059669]" href="#">Jedydah Owino</a>
+            <!-- Updated color classes -->
+            <a class="text-xl font-extrabold primary-color hover:text-[#172554]" href="#">Jedydah Owino</a>
             <div class="flex space-x-4">
-                <a href="#about" class="text-gray-600 hover:text-[#059669] font-medium transition duration-150">About</a>
-                <a href="#skills" class="text-gray-600 hover:text-[#059669] font-medium transition duration-150">Skills</a>
-                <a href="#projects" class="text-gray-600 hover:text-[#059669] font-medium transition duration-150">Projects</a>
+                <a href="#about" class="text-gray-600 hover:primary-color font-medium transition duration-150">About</a>
+                <a href="#skills" class="text-gray-600 hover:primary-color font-medium transition duration-150">Skills</a>
+                <a href="#projects" class="text-gray-600 hover:primary-color font-medium transition duration-150">Projects</a>
             </div>
         </nav>
     </header>
     
     <!-- Hero Section -->
-    <section class="hero-bg py-24 md:py-32">
+    <!-- Updated background color -->
+    <section class="primary-bg py-24 md:py-32">
         <div class="container mx-auto px-4 sm:px-6 lg:px-8 text-center">
-            <h1 class="text-5xl md:text-7xl font-extrabold mb-4 leading-tight">Jedydah A. Owino</h1>
-            <p class="text-lg md:text-xl font-light opacity-90 max-w-3xl mx-auto mb-8">
+            <h1 class="text-5xl md:text-7xl font-extrabold mb-4 leading-tight text-white">Jedydah A. Owino</h1>
+            <p class="text-lg md:text-xl font-light text-white opacity-90 max-w-3xl mx-auto mb-8">
                 GIS & Data Specialist | M&E | Project Management | Climate Resilience
             </p>
-            <a href="assets/Jedydah_Owino_CV.pdf" target="_blank" class="inline-flex items-center justify-center px-8 py-3 border border-transparent text-base font-medium rounded-lg shadow-lg text-[#10b981] bg-white hover:bg-gray-100 transition duration-300 transform hover:scale-105">
-                Download CV
+            <!-- UPDATED: Text changed to "Request CV" and href changed to link to the contact section (#contact) -->
+            <a href="#contact" class="inline-flex items-center justify-center px-8 py-3 border border-transparent text-base font-medium rounded-lg shadow-lg hero-button-text bg-white hover:bg-gray-100 transition duration-300 transform hover:scale-105">
+                Request CV
             </a>
         </div>
     </section>
 
     <!-- About -->
     <section id="about" class="container mx-auto my-16 md:my-24 px-4 sm:px-6 lg:px-8 max-w-5xl">
-        <h2 class="text-4xl font-bold mb-6 text-[#10b981] border-b-4 border-[#10b981] pb-2">About Me</h2>
+        <!-- Updated color classes -->
+        <h2 class="text-4xl font-bold mb-6 primary-color border-b-4 border-accent-color pb-2">About Me</h2>
         <div class="text-lg space-y-4 leading-relaxed text-gray-700">
             <p>
-                Results-driven **GIS and Data Analyst** with 12+ years of experience leveraging spatial analytics, remote sensing, and data visualization to solve complex challenges across urban planning, public health, **climate resilience**, and international development.
+                Results-driven <strong>GIS and Data Analyst</strong> with 12+ years of experience leveraging spatial analytics, remote sensing, and data visualization to solve complex challenges across urban planning, public health, <strong>climate resilience</strong>, and international development.
             </p>
             <p>
-                I’ve led cross-functional teams and supported multi-country donor-funded programs (World Bank, Mastercard Foundation, FCDO, Save the Children) across **Kenya, Nigeria, Uganda, Mozambique, and Madagascar**.
+                I’ve led cross-functional teams and supported multi-country donor-funded programs (World Bank, Mastercard Foundation, FCDO, Save the Children) across <strong>Kenya, Nigeria, Uganda, Mozambique, and Madagascar</strong>.
             </p>
             <p>
-                My work has been instrumental in improving data governance, Monitoring & Evaluation (M&E) systems, and evidence-based decision-making through actionable insights derived from **over 300,000 records**.
+                My work has been instrumental in improving data governance, Monitoring & Evaluation (M&E) systems, and evidence-based decision-making through actionable insights derived from <strong>over 300,000 records</strong>.
             </p>
         </div>
     </section>
@@ -66,24 +85,25 @@
     <!-- Skills -->
     <section id="skills" class="bg-white py-16 md:py-24">
         <div class="container mx-auto px-4 sm:px-6 lg:px-8 max-w-5xl">
-            <h2 class="text-4xl font-bold mb-10 text-[#10b981] text-center">Key Skills</h2>
+            <!-- Updated color classes -->
+            <h2 class="text-4xl font-bold mb-10 primary-color text-center">Key Skills</h2>
             <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
                 <!-- Skill Column 1: M&E & Data Governance -->
                 <div class="p-6 bg-gray-50 rounded-xl shadow-lg hover:shadow-xl transition duration-300">
-                    <h3 class="text-xl font-semibold mb-3 text-[#059669]">Data Systems & M&E</h3>
+                    <h3 class="text-xl font-semibold mb-3 primary-color">Data Systems & M&E</h3>
                     <ul class="list-disc list-inside space-y-1 text-gray-700">
                         <li>M&E Systems Development</li>
                         <li>Data Governance & Policy</li>
-                        <li>**SQL** (PostgreSQL/PostGIS)</li>
+                        <li><strong>SQL</strong> (PostgreSQL/PostGIS)</li>
                         <li>Power BI, Tableau (Data Viz)</li>
                     </ul>
                 </div>
                 
                 <!-- Skill Column 2: Geospatial & Tech -->
                 <div class="p-6 bg-gray-50 rounded-xl shadow-lg hover:shadow-xl transition duration-300">
-                    <h3 class="text-xl font-semibold mb-3 text-[#059669]">Geospatial & Remote Sensing</h3>
+                    <h3 class="text-xl font-semibold mb-3 primary-color">Geospatial & Remote Sensing</h3>
                     <ul class="list-disc list-inside space-y-1 text-gray-700">
-                        <li>**GIS** (ArcGIS Pro, QGIS, GEE)</li>
+                        <li><strong>GIS</strong> (ArcGIS Pro, QGIS, GEE)</li>
                         <li>Remote Sensing (Sentinel, Landsat, UAV)</li>
                         <li>Data Collection (KoBoToolbox, ODK)</li>
                         <li>Python (pandas, geopandas)</li>
@@ -92,7 +112,7 @@
 
                 <!-- Skill Column 3: Management & Policy -->
                 <div class="p-6 bg-gray-50 rounded-xl shadow-lg hover:shadow-xl transition duration-300">
-                    <h3 class="text-xl font-semibold mb-3 text-[#059669]">Project Leadership & Policy</h3>
+                    <h3 class="text-xl font-semibold mb-3 primary-color">Project Leadership & Policy</h3>
                     <ul class="list-disc list-inside space-y-1 text-gray-700">
                         <li>Project Management (MS Project, Asana)</li>
                         <li>Training & Capacity Building</li>
@@ -106,7 +126,8 @@
 
     <!-- Projects -->
     <section id="projects" class="container mx-auto my-16 md:my-24 px-4 sm:px-6 lg:px-8 max-w-5xl">
-        <h2 class="text-4xl font-bold mb-10 text-[#10b981] border-b-4 border-[#10b981] pb-2">Featured Projects</h2>
+        <!-- Updated color classes -->
+        <h2 class="text-4xl font-bold mb-10 primary-color border-b-4 border-accent-color pb-2">Featured Projects</h2>
         
         <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
             <!-- Project 1: MIS Development -->
@@ -114,7 +135,7 @@
                 <div class="p-6">
                     <h5 class="text-xl font-bold mb-2 text-gray-900">Jiinue Growth Program MIS</h5>
                     <p class="text-gray-600">
-                        Designed and implemented a **PostgreSQL-based Management Information System (JMIS)**, migrating 300,000+ records from disparate Excel files. This streamlined M&E reporting for 7+ partner organizations, ensuring data integrity and timely donor compliance.
+                        Designed and implemented a <strong>PostgreSQL-based Management Information System (JMIS)</strong>, migrating 300,000+ records from disparate Excel files. This streamlined M&E reporting for 7+ partner organizations, ensuring data integrity and timely donor compliance.
                     </p>
                 </div>
             </div>
@@ -124,7 +145,7 @@
                 <div class="p-6">
                     <h5 class="text-xl font-bold mb-2 text-gray-900">Automated Power BI Dashboards</h5>
                     <p class="text-gray-600">
-                        Developed and deployed automated, real-time reporting dashboards using **Power BI** connected to live databases. This initiative reduced manual reporting effort by **40%** and significantly improved the speed and quality of strategic decision-making.
+                        Developed and deployed automated, real-time reporting dashboards using <strong>Power BI</strong> connected to live databases. This initiative reduced manual reporting effort by <strong>40%</strong> and significantly improved the speed and quality of strategic decision-making.
                     </p>
                 </div>
             </div>
@@ -134,7 +155,7 @@
                 <div class="p-6">
                     <h5 class="text-xl font-bold mb-2 text-gray-900">Multi-Criteria Suitability Analysis</h5>
                     <p class="text-gray-600">
-                        Conducted a **Weighted Overlay Analysis (MCE)** for multi-country water and land resources planning (e.g., in Uganda). Provided a spatial understanding for planning interventions and designing **climate-resilient** water management strategies.
+                        Conducted a <strong>Weighted Overlay Analysis (MCE)</strong> for multi-country water and land resources planning (e.g., in Uganda). Provided a spatial understanding for planning interventions and designing <strong>climate-resilient</strong> water management strategies.
                     </p>
                 </div>
             </div>
@@ -144,7 +165,8 @@
     <!-- Education & Awards -->
     <section class="bg-gray-100 py-16 md:py-24">
         <div class="container mx-auto px-4 sm:px-6 lg:px-8 max-w-5xl">
-            <h2 class="text-4xl font-bold mb-6 text-[#10b981] text-center">Education & Awards</h2>
+            <!-- Updated color classes -->
+            <h2 class="text-4xl font-bold mb-6 primary-color text-center">Education & Awards</h2>
             
             <div class="bg-white p-8 rounded-xl shadow-xl max-w-3xl mx-auto">
                 <h3 class="text-2xl font-semibold mb-4 text-gray-900">Academic History</h3>
@@ -156,7 +178,7 @@
 
                 <h3 class="text-2xl font-semibold mb-4 text-gray-900 border-t pt-4 mt-4 border-gray-200">Recognition</h3>
                 <p class="text-lg text-gray-700">
-                    **Awards:** Climate Governance & Diplomacy Fellow (2024), Women for Africa Canarias Scholar (2022), Learn Africa Scholar (2024).
+                    <strong>Awards:</strong> Climate Governance & Diplomacy Fellow (2024), Women for Africa Canarias Scholar (2022), Learn Africa Scholar (2024).
                 </p>
             </div>
         </div>
@@ -164,15 +186,22 @@
 
     <!-- Contact -->
     <section id="contact" class="container mx-auto my-16 md:my-24 px-4 sm:px-6 lg:px-8 max-w-5xl text-center">
-        <h2 class="text-4xl font-bold mb-6 text-[#10b981]">Get In Touch</h2>
-        <div class="space-y-4 text-lg text-gray-700">
+        <!-- Updated color classes -->
+        <h2 class="text-4xl font-bold mb-6 primary-color">Get In Touch</h2>
+        <p class="text-xl text-gray-800 mb-8">
+            I look forward to discussing how my GIS and data expertise can support your next project.
+        </p>
+        <div class="space-y-4 text-lg text-gray-700 max-w-sm mx-auto p-6 bg-white rounded-xl shadow-lg border border-gray-200">
             <p>
-                Email: <a href="mailto:jedydahowino@gmail.com" class="text-blue-600 hover:text-blue-800 font-medium transition duration-150">jedydahowino@gmail.com</a>
+                <strong class="primary-color">Email:</strong> <a href="mailto:jedydahowino@gmail.com" class="text-blue-600 hover:text-blue-800 font-medium transition duration-150">jedydahowino@gmail.com</a>
             </p>
             <p>
-                LinkedIn: <a href="https://www.linkedin.com/in/atieno20" target="_blank" class="text-blue-600 hover:text-blue-800 font-medium transition duration-150">
-                    https://www.linkedin.com/in/atieno20
+                <strong class="primary-color">LinkedIn:</strong> <a href="https://www.linkedin.com/in/atieno20" target="_blank" class="text-blue-600 hover:text-blue-800 font-medium transition duration-150">
+                    Connect on LinkedIn
                 </a>
+            </p>
+            <p class="pt-4 text-sm text-gray-500">
+                Mention "Request CV" in your message for a copy of my full resume.
             </p>
         </div>
     </section>
@@ -180,7 +209,7 @@
     <!-- Footer -->
     <footer class="bg-gray-800 text-white py-6">
         <div class="container mx-auto px-4 sm:px-6 lg:px-8 text-center text-sm">
-            <small>&copy; 2025 Jedydah Owino | Built with Tailwind CSS and powered by GitHub Pages</small>
+            <small>&copy; 2025 Jedydah Owino | GIS & Data Specialist</small>
         </div>
     </footer>
     
