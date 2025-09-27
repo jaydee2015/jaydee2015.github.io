@@ -162,7 +162,7 @@ The analysis is crucial for managing water resources, mitigating flood risks, an
                     </p>
                 </div>
                 <!-- LIVE IMAGE URL 2 (No change here, still uses Power BI Dashboard.png) -->
-                <img src="https://jaydee2015.github.io/Power%20BI%20Dashboard.png" 
+                <img src="https://jaydee2015.github.io/Catchment%20Mapping.png" 
                      alt="Automated Power BI Dashboard Screenshot" 
                      onerror="this.onerror=null; this.src='https://placehold.co/800x450/e0e0e0/4a4a4a?text=Image+Unavailable'"
                      class="w-full h-auto object-cover border-t border-gray-100">
