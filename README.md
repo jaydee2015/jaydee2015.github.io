@@ -84,7 +84,8 @@
         <img src="assets/catchment.png" class="card-img-top" alt="Catchment Mapping">
         <div class="card-body">
           <h5 class="card-title">Catchment Mapping</h5>
-          <p class="card-text">Catchment mapping provides a spatial understanding of water resources and related ecosystems, helping stakeholders plan interventions, monitor land use impacts, and design climate-resilient water management strategies in Uganda![Uploading Awoja Catchment areas.png…]()
+          <p class="card-text">Catchment mapping provides a spatial understanding of water resources and related ecosystems, helping stakeholders plan interventions, monitor land use impacts, and design climate-resilient water management strategies in Uganda.<img width="2480" height="3507" alt="Catchment Mapping" src="https://github.com/user-attachments/assets/2cda73b5-996c-4e88-8c7e-5a570f7aefdb" />
+
 .</p>
         </div>
       </div>
