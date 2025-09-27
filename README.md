@@ -115,8 +115,8 @@
 <!-- Contact -->
 <section class="container my-5">
   <h2>Contact</h2>
-  <p>Email: <a href="mailto:jedydah@example.com">jedydah@example.com</a></p>
-  <p>LinkedIn: <a href="https://linkedin.com/in/yourprofile" target="_blank">linkedin.com/in/yourprofile</a></p>
+  <p>Email: <a href="mailto:jedydah@example.com">jedydahowino@gmail.com</a></p>
+  <p>LinkedIn: <a href="https://linkedin.com/in/yourprofile" target="_blank"> https://www.linkedin.com/in/atieno20</a></p>
 </section>
 
 <!-- Footer -->
