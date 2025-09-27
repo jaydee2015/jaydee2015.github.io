@@ -150,7 +150,7 @@
             <!-- Project 2: Catchment and Land Use Analysis  -->
             <div class="bg-white rounded-xl shadow-xl border border-gray-100 hover:shadow-2xl transition duration-300 transform hover:-translate-y-1 overflow-hidden max-w-4xl mx-auto">
                 <div class="p-6">
-                    <h5 class="text-2xl font-bold mb-3 text-gray-900 primary-color">Automated Power BI Dashboards</h5>
+                    <h5 class="text-2xl font-bold mb-3 text-gray-900 primary-color">Catchment and Land Use Analysis</h5>
                     <p class="text-gray-700 mb-4 leading-relaxed">
                         the spatial distribution of three major hydrological systems—the Lokok, Lokere, and Awoja Catchments—and their respective sub-catchments. It overlays this hydrological framework with current Land Use data, revealing distinct regional characteristics:
 
