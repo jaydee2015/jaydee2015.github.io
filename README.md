@@ -61,8 +61,7 @@
   <div class="row g-4">
     <div class="col-md-4">
       <div class="card shadow-sm">
-        <img src="assets/Sample.jng<img width="4000" height="9128" alt="Sample" src="https://github.com/user-attachments/assets/f02d8d35-e5fc-4a14-825b-d6d188e6369f" />
-![Sample](https://github.com/user-attachments/assets/7e0b3884-86ca-4190-a8f6-f0f755c0a061)
+        <img src="assets/Sample.jng<![Sample](https://github.com/user-attachments/assets/e9c1d1e6-61ff-4931-87b5-33a4a35e06ba)
 " class="card-img-top" alt="JMIS Project">
         <div class="card-body">
           <h5 class="card-title">Jiinue Growth Program MIS</h5>
