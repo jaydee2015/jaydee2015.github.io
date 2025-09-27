@@ -11,7 +11,7 @@
   <div class="container">
     <h1 class="fw-bold">Jedydah A. Owino</h1>
     <p class="lead">GIS & Data Specialist | M&E | Project Management | Climate Resilience</p>
-    <a href="assets/Jedydah_Owino_CV.pdf" class="btn btn-primary" target="_blank">Download CV</a>
+    <a href="assets/Jedydah_Owino_CV.pdf" class="btn btn-primary" target="_blank">
   </div>
 </section>
 
