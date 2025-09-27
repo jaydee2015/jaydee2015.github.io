@@ -12,7 +12,8 @@
     footer { background: #f1f1f1; padding: 20px 0; margin-top: 40px; text-align: center; }
   </style>
 </head>
-<body>
+<body><img width="1280" height="700" alt="Power Bi Dashbaords" src="https://github.com/user-attachments/assets/13133343-2c22-4af7-8983-9325404cdeaf" />
+
 
 <!-- Navigation -->
 <nav class="navbar navbar-expand-lg navbar-light bg-light shadow-sm">
@@ -93,10 +94,11 @@
     </div>
     <div class="col-md-4">
       <div class="card shadow-sm">
-        <img src="assets/climate.png" class="card-img-top" alt="Climate Mapping">
+        <img src="assets/catchment.png" class="card-img-top" alt="Catchment Mapping">
         <div class="card-body">
-          <h5 class="card-title">Climate & Health Risk Mapping</h5>
-          <p class="card-text">Mapped vector-borne disease risks in Wyoming and land degradation in Kenya using GIS and remote sensing.</p>
+          <h5 class="card-title">Catchment Mapping</h5>
+          <p class="card-text">Catchment mapping provides a spatial understanding of water resources and related ecosystems, helping stakeholders plan interventions, monitor land use impacts, and design climate-resilient water management strategies in Uganda![Uploading Awoja Catchment areas.png…]()
+.</p>
         </div>
       </div>
     </div>
