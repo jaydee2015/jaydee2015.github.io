@@ -1,4 +1,4 @@
-
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -129,10 +129,10 @@
         <!-- Updated color classes -->
         <h2 class="text-4xl font-bold mb-10 primary-color border-b-4 border-accent-color pb-2">Featured Projects</h2>
         
-        <!-- UPDATED: Removed grid and replaced with vertical spacing (space-y-16) -->
+        <!-- Project cards stack vertically, full-width up to max-w-4xl, with vertical spacing (space-y-16) -->
         <div class="space-y-16">
             
-            <!-- Project 1: MIS Development - Now full width and centered -->
+            <!-- Project 1: MIS Development -->
             <div class="bg-white rounded-xl shadow-xl border border-gray-100 hover:shadow-2xl transition duration-300 transform hover:-translate-y-1 overflow-hidden max-w-4xl mx-auto">
                 <div class="p-6">
                     <h5 class="text-2xl font-bold mb-3 text-gray-900 primary-color">Jiinue Growth Program MIS</h5>
@@ -147,7 +147,7 @@
                      class="w-full h-auto object-cover border-t border-gray-100">
             </div>
 
-            <!-- Project 2: Data Visualization - Now full width and centered -->
+            <!-- Project 2: Data Visualization -->
             <div class="bg-white rounded-xl shadow-xl border border-gray-100 hover:shadow-2xl transition duration-300 transform hover:-translate-y-1 overflow-hidden max-w-4xl mx-auto">
                 <div class="p-6">
                     <h5 class="text-2xl font-bold mb-3 text-gray-900 primary-color">Automated Power BI Dashboards</h5>
@@ -155,23 +155,23 @@
                         Developed and deployed automated, real-time reporting dashboards using <strong>Power BI</strong> connected to live databases. This initiative reduced manual reporting effort by <strong>40%</strong> and significantly improved the speed and quality of strategic decision-making.
                     </p>
                 </div>
-                <!-- LIVE IMAGE URL 2 (URL encoded space) -->
+                <!-- LIVE IMAGE URL 2 (No change here, still uses Power BI Dashboard.png) -->
                 <img src="https://jaydee2015.github.io/Power%20BI%20Dashboard.png" 
                      alt="Automated Power BI Dashboard Screenshot" 
                      onerror="this.onerror=null; this.src='https://placehold.co/800x450/e0e0e0/4a4a4a?text=Image+Unavailable'"
                      class="w-full h-auto object-cover border-t border-gray-100">
             </div>
 
-            <!-- Project 3: Geospatial Analysis - Now full width and centered -->
+            <!-- Project 3: Geospatial Analysis - UPDATED DESCRIPTION -->
             <div class="bg-white rounded-xl shadow-xl border border-gray-100 hover:shadow-2xl transition duration-300 transform hover:-translate-y-1 overflow-hidden max-w-4xl mx-auto">
                 <div class="p-6">
                     <h5 class="text-2xl font-bold mb-3 text-gray-900 primary-color">Multi-Criteria Suitability Analysis</h5>
                     <p class="text-gray-700 mb-4 leading-relaxed">
-                        Conducted a <strong>Weighted Overlay Analysis (MCE)</strong> for multi-country water and land resources planning (e.g., in Uganda). Provided a spatial understanding for planning interventions and designing <strong>climate-resilient</strong> water management strategies.
+                        Conducted a Weighted Overlay Analysis (MCE) for climate-resilient water and land resource planning in Madagascar, focusing on Atsimo-Andrefana, Androy, and Anosy. The analysis revealed areas of very high suitability (red/orange) in Atsimo-Andrefana and Androy, while Anosy presented a mixed profile, providing crucial spatial intelligence for targeted interventions.
                     </p>
                 </div>
-                <!-- LIVE IMAGE URL 3 (URL encoded space) -->
-                <img src="https://jaydee2015.github.io/Catchment%20Mapping.png" 
+                <!-- LIVE IMAGE URL 3 - Updated link in previous turn -->
+                <img src="https://jaydee2015.github.io/Suitability.png" 
                      alt="Multi-Criteria Suitability Catchment Map" 
                      onerror="this.onerror=null; this.src='https://placehold.co/800x450/e0e0e0/4a4a4a?text=Image+Unavailable'"
                      class="w-full h-auto object-cover border-t border-gray-100">
