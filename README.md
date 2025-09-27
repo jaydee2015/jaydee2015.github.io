@@ -1,4 +1,3 @@
-
 <!-- Navigation -->
 <nav class="navbar navbar-expand-lg navbar-light bg-light shadow-sm">
   <div class="container">
@@ -11,7 +10,7 @@
   <div class="container">
     <h1 class="fw-bold">Jedydah A. Owino</h1>
     <p class="lead">GIS & Data Specialist | M&E | Project Management | Climate Resilience</p>
-
+    <a href="assets/Jedydah_Owino_CV.pdf" class="btn btn-primary" target="_blank">Download CV</a>
   </div>
 </section>
 
@@ -56,14 +55,11 @@
 
 <!-- Projects -->
 <section class="container my-5">
-  <h2>Featured Projects</h2>!<img width="1280" height="700" alt="Power BI Dashboard" src="https://github.com/user-attachments/assets/bad883e0-22d1-4212-9695-53f3dd4ac7d4" />
-![Sample](https://github.com/user-attachments/assets/703e584f-5971-453f-b6dc-83f22e3c0287)
-
+  <h2>Featured Projects</h2>
 
   <div class="row g-4">
     <div class="col-md-4">
       <div class="card shadow-sm">
-        <img src="assets/Sample.jng<" class="card-img-top" alt="JMIS Project">
         <div class="card-body">
           <h5 class="card-title">Jiinue Growth Program MIS</h5>
           <p class="card-text">Migrated 300,000+ records from Excel to PostgreSQL-based JMIS, streamlining reporting for 7+ partner organizations.</p>
@@ -72,7 +68,6 @@
     </div>
     <div class="col-md-4">
       <div class="card shadow-sm">
-        <img src="assets/powerbi.png" class="card-img-top" alt="Power BI Dashboard">
         <div class="card-body">
           <h5 class="card-title">Automated Power BI Dashboards</h5>
           <p class="card-text">Built reporting system reducing manual effort by 40%, improving speed and quality of decision-making.</p>
@@ -81,18 +76,14 @@
     </div>
     <div class="col-md-4">
       <div class="card shadow-sm">
-        <img src="assets/catchment.png" class="card-img-top" alt="Catchment Mapping">
         <div class="card-body">
           <h5 class="card-title">Catchment Mapping</h5>
-          <p class="card-text">Catchment mapping provides a spatial understanding of water resources and related ecosystems, helping stakeholders plan interventions, monitor land use impacts, and design climate-resilient water management strategies in Uganda.<img width="2480" height="3507" alt="Catchment Mapping" src="https://github.com/user-attachments/assets/2cda73b5-996c-4e88-8c7e-5a570f7aefdb" />
-
-.</p>
+          <p class="card-text">Catchment mapping provides a spatial understanding of water resources and related ecosystems, helping stakeholders plan interventions, monitor land use impacts, and design climate-resilient water management strategies in Uganda.</p>
         </div>
       </div>
     </div>
   </div>
 </section>
-
 <!-- Education & Awards -->
 <section class="container my-5">
   <h2>Education & Awards</h2>
@@ -116,3 +107,4 @@
 
 </body>
 </html>
+  
