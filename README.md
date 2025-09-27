@@ -1,3 +1,4 @@
+<img width="2480" height="3507" alt="Catchment" src="https://github.com/user-attachments/assets/5ae410ce-4840-49a1-a43c-57ab9511cdf0" />
 <!doctype html>
 <html lang="en">
 <head>
@@ -72,11 +73,13 @@
 
 <!-- Projects -->
 <section class="container my-5">
-  <h2>Featured Projects</h2>
+  <h2>Featured Projects</h2>![Sample](https://github.com/user-attachments/assets/5b506220-b4fa-4bae-9e6f-a169f35783d6)
+
   <div class="row g-4">
     <div class="col-md-4">
       <div class="card shadow-sm">
-        <img src="assets/jmis.png" class="card-img-top" alt="JMIS Project">
+        <img src="assets/Sample.jpg![Sample](https://github.com/user-attachments/assets/7e0b3884-86ca-4190-a8f6-f0f755c0a061)
+" class="card-img-top" alt="JMIS Project">
         <div class="card-body">
           <h5 class="card-title">Jiinue Growth Program MIS</h5>
           <p class="card-text">Migrated 300,000+ records from Excel to PostgreSQL-based JMIS, streamlining reporting for 7+ partner organizations.</p>
