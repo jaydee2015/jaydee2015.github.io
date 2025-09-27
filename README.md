@@ -1,20 +1,3 @@
-<img width="2480" height="3507" alt="Catchment" src="https://github.com/user-attachments/assets/5ae410ce-4840-49a1-a43c-57ab9511cdf0" />
-<!doctype html>
-<html lang="en">
-<head>
-  <meta charset="utf-8"/>
-  <meta name="viewport" content="width=device-width,initial-scale=1"/>
-  <title>Jedydah Owino — GIS, Data & Project Management Portfolio</title>
-  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet"/>
-  <style>
-    body { font-family: 'Segoe UI', Tahoma, sans-serif; }
-    .hero { background: #f8f9fa; padding: 70px 0; text-align: center; }
-    .card img { height: 200px; object-fit: cover; }
-    footer { background: #f1f1f1; padding: 20px 0; margin-top: 40px; text-align: center; }
-  </style>
-</head>
-<body><img width="1280" height="700" alt="Power Bi Dashbaords" src="https://github.com/user-attachments/assets/13133343-2c22-4af7-8983-9325404cdeaf" />
-
 
 <!-- Navigation -->
 <nav class="navbar navbar-expand-lg navbar-light bg-light shadow-sm">
