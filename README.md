@@ -56,13 +56,14 @@
 
 <!-- Projects -->
 <section class="container my-5">
-  <h2>Featured Projects</h2>![Sample](https://github.com/user-attachments/assets/5b506220-b4fa-4bae-9e6f-a169f35783d6)
+  <h2>Featured Projects</h2>!<img width="1280" height="700" alt="Power BI Dashboard" src="https://github.com/user-attachments/assets/bad883e0-22d1-4212-9695-53f3dd4ac7d4" />
+![Sample](https://github.com/user-attachments/assets/703e584f-5971-453f-b6dc-83f22e3c0287)
+
 
   <div class="row g-4">
     <div class="col-md-4">
       <div class="card shadow-sm">
-        <img src="assets/Sample.jng<![Sample](https://github.com/user-attachments/assets/e9c1d1e6-61ff-4931-87b5-33a4a35e06ba)
-" class="card-img-top" alt="JMIS Project">
+        <img src="assets/Sample.jng<" class="card-img-top" alt="JMIS Project">
         <div class="card-body">
           <h5 class="card-title">Jiinue Growth Program MIS</h5>
           <p class="card-text">Migrated 300,000+ records from Excel to PostgreSQL-based JMIS, streamlining reporting for 7+ partner organizations.</p>
