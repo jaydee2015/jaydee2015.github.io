@@ -167,7 +167,7 @@
                 <div class="p-6">
                     <h5 class="text-2xl font-bold mb-3 text-gray-900 primary-color">Multi-Criteria Suitability Analysis</h5>
                     <p class="text-gray-700 mb-4 leading-relaxed">
-                        Conducted a Weighted Overlay Analysis (MCE) for climate-resilient water and land resource planning in Madagascar, focusing on Atsimo-Andrefana, Androy, and Anosy. The analysis revealed areas of very high suitability (red/orange) in Atsimo-Andrefana and Androy, while Anosy presented a mixed profile, providing crucial spatial intelligence for targeted interventions.
+                        Conducted a Weighted Overlay Analysis (MCE) for intersection of child-care, poverty and climate effect in Madagascar, focusing on Atsimo-Andrefana, Androy, and Anosy regions. The analysis revealed areas of very high suitability (red/orange) in Atsimo-Andrefana and Androy, while Anosy presented a mixed profile, providing crucial spatial intelligence for targeted interventions.
                     </p>
                 </div>
                 <!-- LIVE IMAGE URL 3 - Updated link in previous turn -->
