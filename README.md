@@ -190,7 +190,7 @@ The analysis is crucial for managing water resources, mitigating flood risks, an
                         Led large-scale urban development and digital mapping initiatives across seven Kenyan counties (Meru, Samburu, Siaya, Kisumu, Machakos, Nyamira, Makueni). The core focus was preparing Integrated Strategic Urban Development Plans (ISUDPs) and Local Physical Development Plans (LPDPs) for sustainable planning and informal settlement upgrading.
                     </p>
                     <p class="text-gray-700 mb-4 leading-relaxed">
-                        I conducted reconnaissance, base map preparation, and socio-economic data analysis, using GIS and spatial modeling to design key sectoral improvement plans (transport, housing, environment). This provided county governments with robust, data-driven planning tools to enhance urban management and climate-resilient strategies.
+                       conducted reconnaissance, base map preparation, and socio-economic data analysis, using GIS and spatial modeling to design key sectoral improvement plans (transport, housing, environment). This provided county governments with robust, data-driven planning tools to enhance urban management and climate-resilient strategies.
                     </p>
                 </div>
                 <!-- LIVE IMAGE URL 4 -->
