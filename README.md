@@ -187,10 +187,10 @@ The analysis is crucial for managing water resources, mitigating flood risks, an
                 <div class="p-6">
                     <h5 class="text-2xl font-bold mb-3 text-gray-900 primary-color">Urban Development & Digital Mapping Consultancy</h5>
                     <p class="text-gray-700 mb-4 leading-relaxed">
-                        Led large-scale urban development and **digital mapping** initiatives across seven Kenyan counties (Meru, Samburu, Siaya, Kisumu, Machakos, Nyamira, Makueni). The core focus was preparing **Integrated Strategic Urban Development Plans (ISUDPs)** and **Local Physical Development Plans (LPDPs)** for sustainable planning and informal settlement upgrading.
+                        Led large-scale urban development and digital mapping initiatives across seven Kenyan counties (Meru, Samburu, Siaya, Kisumu, Machakos, Nyamira, Makueni). The core focus was preparing Integrated Strategic Urban Development Plans (ISUDPs) and Local Physical Development Plans (LPDPs) for sustainable planning and informal settlement upgrading.
                     </p>
                     <p class="text-gray-700 mb-4 leading-relaxed">
-                        I conducted reconnaissance, base map preparation, and socio-economic data analysis, using **GIS** and spatial modeling to design key sectoral improvement plans (transport, housing, environment). This provided county governments with robust, data-driven planning tools to enhance urban management and **climate-resilient strategies**.
+                        I conducted reconnaissance, base map preparation, and socio-economic data analysis, using GIS and spatial modeling to design key sectoral improvement plans (transport, housing, environment). This provided county governments with robust, data-driven planning tools to enhance urban management and climate-resilient strategies.
                     </p>
                 </div>
                 <!-- LIVE IMAGE URL 4 -->
