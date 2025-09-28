@@ -145,6 +145,7 @@
                      alt="Jiinue Growth Program MIS Screenshot" 
                      onerror="this.onerror=null; this.src='https://placehold.co/800x450/e0e0e0/4a4a4a?text=Image+Unavailable'"
                      class="w-full h-auto object-cover border-t border-gray-100">
+                     Image Source: J. Owino
             </div>
 
             <!-- Project 2: Catchment and Land Use Analysis  -->
@@ -166,6 +167,7 @@ The analysis is crucial for managing water resources, mitigating flood risks, an
                      alt="Automated Power BI Dashboard Screenshot" 
                      onerror="this.onerror=null; this.src='https://placehold.co/800x450/e0e0e0/4a4a4a?text=Image+Unavailable'"
                      class="w-full h-auto object-cover border-t border-gray-100">
+                     Image Source: J. Owino
             </div>
 
             <!-- Project 3: Geospatial Analysis - UPDATED DESCRIPTION -->
@@ -181,6 +183,7 @@ The analysis is crucial for managing water resources, mitigating flood risks, an
                      alt="Multi-Criteria Suitability Catchment Map" 
                      onerror="this.onerror=null; this.src='https://placehold.co/800x450/e0e0e0/4a4a4a?text=Image+Unavailable'"
                      class="w-full h-auto object-cover border-t border-gray-100">
+                     Image Source: J. Owino
             </div>
                         <!-- Project 4: Urban Development & Digital Mapping Consultancy (NEW) -->
             <div class="bg-white rounded-xl shadow-xl border border-gray-100 hover:shadow-2xl transition duration-300 transform hover:-translate-y-1 overflow-hidden max-w-4xl mx-auto">
@@ -198,6 +201,7 @@ The analysis is crucial for managing water resources, mitigating flood risks, an
                      alt="Urban Development Planning Map of Kenyan County" 
                      onerror="this.onerror=null; this.src='https://placehold.co/800x450/e0e0e0/4a4a4a?text=Image+Unavailable'"
                      class="w-full h-auto object-cover border-t border-gray-100">
+                     Image Source: J. Owino
         </div>
         </div>
     </section>
