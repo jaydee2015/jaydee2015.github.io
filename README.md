@@ -182,6 +182,23 @@ The analysis is crucial for managing water resources, mitigating flood risks, an
                      onerror="this.onerror=null; this.src='https://placehold.co/800x450/e0e0e0/4a4a4a?text=Image+Unavailable'"
                      class="w-full h-auto object-cover border-t border-gray-100">
             </div>
+                        <!-- Project 4: Urban Development & Digital Mapping Consultancy (NEW) -->
+            <div class="bg-white rounded-xl shadow-xl border border-gray-100 hover:shadow-2xl transition duration-300 transform hover:-translate-y-1 overflow-hidden max-w-4xl mx-auto">
+                <div class="p-6">
+                    <h5 class="text-2xl font-bold mb-3 text-gray-900 primary-color">Urban Development & Digital Mapping Consultancy</h5>
+                    <p class="text-gray-700 mb-4 leading-relaxed">
+                        Led large-scale urban development and **digital mapping** initiatives across seven Kenyan counties (Meru, Samburu, Siaya, Kisumu, Machakos, Nyamira, Makueni). The core focus was preparing **Integrated Strategic Urban Development Plans (ISUDPs)** and **Local Physical Development Plans (LPDPs)** for sustainable planning and informal settlement upgrading.
+                    </p>
+                    <p class="text-gray-700 mb-4 leading-relaxed">
+                        I conducted reconnaissance, base map preparation, and socio-economic data analysis, using **GIS** and spatial modeling to design key sectoral improvement plans (transport, housing, environment). This provided county governments with robust, data-driven planning tools to enhance urban management and **climate-resilient strategies**.
+                    </p>
+                </div>
+                <!-- LIVE IMAGE URL 4 -->
+                <img src="https://jaydee2015.github.io/Local%20Development%20Plan.png" 
+                     alt="Urban Development Planning Map of Kenyan County" 
+                     onerror="this.onerror=null; this.src='https://placehold.co/800x450/e0e0e0/4a4a4a?text=Image+Unavailable'"
+                     class="w-full h-auto object-cover border-t border-gray-100">
+        </div>
         </div>
     </section>
 
