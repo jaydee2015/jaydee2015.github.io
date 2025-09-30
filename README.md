@@ -234,14 +234,14 @@ The analysis is crucial for managing water resources, mitigating flood risks, an
             <h3 class="text-2xl font-semibold mb-4 text-gray-900">Publications</h3>
             <ul class="list-disc list-outside space-y-4 text-lg text-gray-700 ml-6">
                 <li>
-                  Jedydah Atieno, Kaduru C., Godwin I., Akeboi O., Cyril-Egware K., Uzoma S., Maduekwe V., Nwafa E., et al. (2025). 
+               <strong>Contributor</strong>   -“Geospatial analysis of immunisation outcomes in Nigeria using a Bayesian geostatistical approach and an interactive dashboard (2025).”
                     <a href="https://doi.org/10.1186/s12982-025-00719-y" target="_blank" class="text-blue-600 hover:text-blue-800 font-medium transition duration-150">
-                        “Geospatial analysis of immunisation outcomes in Nigeria using a Bayesian geostatistical approach and an interactive dashboard.”
+                       
                     </a>
                     <span class="text-sm text-gray-500 block mt-1">DOI: 10.1186/s12982-025-00719-y</span>
                 </li>
                 <li>
-                    <strong>Contributor, Global Health: Science & Practice (2023)</strong> – “Strengthening Capacity for Tailored Immunization Programs”
+                    <strong>Contributor, Global Health: Science & Practice (2024)</strong> – “Strengthening Capacity for Tailored Immunization Programs”
                 </li>
             </ul>
 
