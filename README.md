@@ -227,7 +227,28 @@ The analysis is crucial for managing water resources, mitigating flood risks, an
             </div>
         </div>
     </section>
+<!-- Publications & Speaking (NEW SECTION) -->
+    <section id="publications" class="container mx-auto my-16 md:my-24 px-4 sm:px-6 lg:px-8 max-w-5xl">
+        <h2 class="text-4xl font-bold mb-6 primary-color border-b-4 border-accent-color pb-2 text-center">Publications & Speaking</h2>
+        <div class="bg-white p-8 rounded-xl shadow-xl max-w-3xl mx-auto">
+            <h3 class="text-2xl font-semibold mb-4 text-gray-900">Publications</h3>
+            <ul class="list-disc list-outside space-y-4 text-lg text-gray-700 ml-6">
+                <li>
+                    <strong>(Forthcoming 2025)</strong>: Jedydah Atieno, Kaduru C., Godwin I., Akeboi O., Cyril-Egware K., Uzoma S., Maduekwe V., Nwafa E., et al. “Geospatial analysis of immunisation outcomes in Nigeria using a Bayesian geostatistical approach and an interactive dashboard.”
+                </li>
+                <li>
+                    <strong>Contributor, Global Health: Science & Practice (2023)</strong> – “Strengthening Capacity for Tailored Immunization Programs”
+                </li>
+            </ul>
 
+            <h3 class="text-2xl font-semibold mb-4 text-gray-900 border-t pt-4 mt-4 border-gray-200">Speaking Engagements</h3>
+            <ul class="list-disc list-outside space-y-3 text-lg text-gray-700 ml-6">
+                <li>
+                    <strong>Guest Speaker (Aug 2023 Webinar)</strong>: “Optimizing Vaccine Uptake Through Data Use”
+                </li>
+            </ul>
+        </div>
+    </section>
     <!-- Contact -->
     <section id="contact" class="container mx-auto my-16 md:my-24 px-4 sm:px-6 lg:px-8 max-w-5xl text-center">
         <!-- Updated color classes -->
